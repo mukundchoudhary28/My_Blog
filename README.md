@@ -1,2 +1,2 @@
 # My_Blog
-A blog made in django
+A simple webapp that creates an admin panel for your blogs.
